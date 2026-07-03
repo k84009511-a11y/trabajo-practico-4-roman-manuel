@@ -1,0 +1,26 @@
+{
+  "name": "trabajo-practico-4-roman-manuel",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/k84009511-a11y/trabajo-practico-4-roman-manuel#readme",
+  "bugs": {
+    "url": "https://github.com/k84009511-a11y/trabajo-practico-4-roman-manuel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k84009511-a11y/trabajo-practico-4-roman-manuel.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  }
+}
